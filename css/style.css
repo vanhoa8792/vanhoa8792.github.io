@@ -1,0 +1,80 @@
+
+.khung1{
+width: 100%;
+height:80px;
+background-color:rgb(38, 38, 44);
+color: white;
+
+}
+
+.khung1 p {
+    float:left;
+margin: 22px 100px;
+
+}
+.khung1 i {
+    float: right;
+    margin: 30px; 
+
+}
+
+
+
+
+.hinhnen{
+    opacity: 0.8;
+    background-image: url(xee.jpg);
+    width: 100%;
+    height: 949px;
+    margin-top:6px;
+    font-size: 30px;
+}
+.hinhnen p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: white;
+    padding: 500px;
+    text-align: center;
+}
+
+
+
+
+.title {
+    background: url('../img/bg.jpg') no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 4rem 0;
+    color: white
+}
+.title h1 {
+    line-height: 2.5rem;
+}
+.title p {
+    line-height: 1.5rem;
+    opacity: .6;
+}
+.lines {
+    background: #dfdfdf;
+    margin-bottom: 2rem;
+}
+.lines .breadcrumb {
+    margin-bottom: 0;
+    background: none;
+    padding: .75rem 0;
+}
+.shop figure {
+    /* border: 1px solid #dfdfdf; */
+    padding: 1rem
+}
+.shop figure:hover {
+    box-shadow: 0 0 15px rgba(179, 179, 179, 0.75);
+
+}
+.khung4{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+
+    
+}
